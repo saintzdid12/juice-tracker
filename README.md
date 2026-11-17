@@ -1,5 +1,5 @@
 <!-- juicetracker:begin -->
-# JuiceTracker
+# juice-tracker
 
 See how much battery your mouse and headset have left at a glance. JuiceTracker is a portable utility for 64-bit Windows 10 and 11.
 
